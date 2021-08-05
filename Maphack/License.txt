@@ -1,0 +1,35 @@
+C3PO END USER LICENSE AGREEMENT
+
+YOU SHOULD CAREFULLY READ THE FOLLOWING END USER LICENSE AGREEMENT
+BEFORE INSTALLING THIS SOFTWARE PROGRAM. BY INSTALLING, COPYING, OR
+OTHERWISE USING THE SOFTWARE PROGRAM, YOU AGREE TO BE BOUND BY THE
+TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS
+AGREEMENT PLEASE DELETE ALL C3PO INSTALLATION, PROGRAM AND RELATED FILES. IF YOU HAVE ANY QUESTIONS REGARDING THIS EULA PLEASE EMAIL admin@diabloworld.com
+
+Definitions:
+
+1. "Program" shall refer to "C3PO.exe", "r2d2.dll", "r2Map.dgl" and its source code. 
+
+2. "LICENCE" shall refer to this End User License Agreement.
+
+3. "DISTRIBUTION" shall refer to any involvement of allowing another computer/user to obtain a copy of the Program that is located on your computer.
+
+This software program, any online or electronic documentation, and any and all copies and derivative works of such software program and materials are the copyrighted work of Dan_Goon + Diabloworld.com. All use of the Program is bound by the terms of the End User License Agreement. The Program is solely for use by end users according to the terms of the License Agreement. Any use, reproduction or redistribution of the Program not in accordance with the terms of the License Agreement is expressly prohibited.
+
+END USER LICENSE AGREEMENT
+
+1. Dan_Goon + Diabloworld.com hereby grants, and by installing the Program You thereby accept, a limited, non-exclusive LICENCE and right to install and use one (1) copy of the Program for your use on either a home, business, or portable computer.
+
+2. You are entitled to use the Program for your private use. You are expressedly forbidden to copy the Program and this LICENCE by any means of backup, uploading through email, ftp, http, p2p, any IM software, trojan programs or any program allowing remote contact of your computer. This is a free program, please download it onto each computer you would like to use it on.
+
+3. You are expressedly forbidden to collect a fee or donation by DISTRIBUTION of the Program. You may not upload or sell the Program on any D2 Item Store, or auction sites, not limited to eBay. You may not collect a fee or donation from anything related to the operation of C3PO including but not limited to:
+	rental, license, advice, directions to use, FAQ, installation,  	file location, support, anything that a user may use in order 		to be able to use C3PO. The Program cannot be redistributed or 	bundled with other software/information/advice.
+
+4. Dan_Goon and Diabloworld.com disclaims any warranty for the Program. The Program is accepted and ran "AS-IS" and without warranty. You accept that any damage to your computer, files or information is self responsible. By using the Program, you hereby exclude Dan_Goon and Diabloworld from any actions that Blizzard may affect on the condition of the use of C3PO, including but not limited to:
+	temporary or permanent banning of your ip, muting, flagging, or 	banning of your cdkey or accounts, loss of items, characters or 	accounts, password changes or any new creative consquence 		Blizzard may come up with in the future.
+
+5. You may not, in whole or in part, copy, photocopy, reproduce, translate, reverse engineer, derive source code, modify, disassemble, decompile, create derivative works based on the Program.
+
+6. At all times, each aspect of this LICENSE are enforceable despite if any part of the LICENSE is held invalid, or any particular circumstances which may try to invalidate this EULA.
+
+7. This EULA is effective until terminated. You may terminate the License Agreement at any time by deleting the Program from your computer.
